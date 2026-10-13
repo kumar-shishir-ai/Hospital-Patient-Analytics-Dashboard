@@ -83,34 +83,6 @@ Through this project, I strengthened my practical knowledge of Microsoft Excel a
 - Convert raw data into meaningful visual insights.
 - Present analytical findings in a professional format.
 
-## 📷 Dashboard Preview
-
-Add your dashboard screenshot to this repository and display it here.
-
-For example, if you upload the image into a folder named `images` with the filename `hospital_emergency_dashboard.png`, use:
-
-`![Hospital Emergency Room Dashboard](images/hospital_emergency_dashboard.png)`
-
-## 📂 Project Structure
-
-```text
-Hospital-Emergency-Room-Dashboard/
-│
-├── Hospital_Emergency_Room_Dashboard.xlsx
-├── images/
-│   └── hospital_emergency_dashboard.png
-└── README.md
-```
-
-*Note: Update the filenames and folder structure to match the files you actually upload.*
-
-## 🚀 How to Use
-
-1. Clone or download this repository.
-2. Open the Excel workbook in Microsoft Excel.
-3. Navigate to the dashboard worksheet.
-4. Use the available year and month filters to explore the data.
-5. Review the charts, KPI cards, and trends to understand emergency room performance.
 
 ## 👨‍💻 About Me
 
